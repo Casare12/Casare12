@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @Casare12
-- 👀 I’m interested in machine learning 
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on Machine learning techniques
+- 👋 Hi, I’m Clement Asare and you can call me Clement
+- 👀 I’m a machine learning enthusiast
+- 🌱 I am proficient in Python, R, Eviews, Stata, SPSS and Microsoft Office tools
+- 💞️ I’m looking to collaborate on Machine learning techniques to solve real world problems
+-    I would like to do my PhD in Statistics and Machine Learning related field
 - 📫 How to reach me clementasare081@gmail.com
 
 <!---
