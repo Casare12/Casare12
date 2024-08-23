@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Clement Asare and you can call me Clement
 - 👀 I’m a machine learning enthusiast
+- I am also an AWS Certified Cloud Practitioner
 - 🌱 I am proficient in Python, R, Eviews, Stata, SPSS and Microsoft Office tools
-- 💞️ I’m looking to collaborate on Machine learning techniques to solve real world problems
--    I would like to do my PhD in Statistics and Machine Learning related field
+- Check my YouTube Channel (Quantified Tutorials) here: https://www.youtube.com/channel/UCtG9wvpQUGjDJFASuf6mkeg
 - 📫 How to reach me clementasare081@gmail.com
 
 <!---
